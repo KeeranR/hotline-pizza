@@ -115,8 +115,15 @@
             question: "Spinach",
             answers: {
             }
-        }
+        },
+        {
+            question: "Thin Crust",
+            answers: {
+            }
+        },
     ];
+
+
 
     // Displays the quiz
     buildQuiz();
